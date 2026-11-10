@@ -1,0 +1,222 @@
+[
+  {
+    "id": "ficha-tc-condor-sec-01",
+    "titulo": "Banco Andino Ficticio S.A. Ficha de producto y guía de atención: Tarjetas de crédito Cóndor",
+    "contenido": "Código de documento: BAF-TC-GUIA-007 · Versión 3.2 · Vigencia: 01/10/2026 - 31/03/2027 · Área responsable: Gestión de Productos\nde Tarjetas",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 1,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-02",
+    "titulo": "1. Propósito y alcance",
+    "contenido": "Esta guía orienta a los especialistas de negocio en la atención de consultas sobre la familia de tarjetas de crédito\nCóndor: características, costos, requisitos, procedimientos de solicitud, bloqueo y reclamos. Las tasas y\ncomisiones vigentes deben confirmarse siempre en el sistema de características de productos; ante una\ndiferencia, prevalece el sistema.",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 1,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-03",
+    "titulo": "2. Catálogo de tarjetas",
+    "contenido": "<table>\n<tr>\n<th>Tarjeta</th>\n<th>Segmento objetivo</th>\n<th>Línea de crédito (S/)</th>\n<th>Programa de beneficios</th>\n</tr>\n<tr>\n<td>Cóndor Clásica</td>\n<td>Primer tarjeta, ingresos desde S/ 1,500</td>\n<td>1,000 - 8,000</td>\n<td>1 punto Cumbre por cada S/ 10</td>\n</tr>\n<tr>\n<td>Cóndor Oro</td>\n<td>Ingresos desde S/ 3,500</td>\n<td>8,001 - 25,000</td>\n<td>1.5 puntos por S/ 10 y seguro de compras</td>\n</tr>\n<tr>\n<td>Cóndor Platinum</td>\n<td>Ingresos desde S/ 7,000</td>\n<td>25,001 - 60,000</td>\n<td>2 puntos por S/ 10, acceso a salas VIP (4 al año)</td>\n</tr>\n<tr>\n<td>Cóndor Emprende</td>\n<td>Personas con negocio (RUC 10)</td>\n<td>3,000 - 40,000</td>\n<td>Cashback 1% en proveedores afiliados</td>\n</tr>\n</table>",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 1,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-04",
+    "titulo": "3. Costos y tarifario referencial",
+    "contenido": "<table>\n<tr>\n<th>Concepto</th>\n<th>Clásica</th>\n<th>Oro</th>\n<th>Platinum</th>\n<th>Emprende</th>\n</tr>\n<tr>\n<td>Membresía anual</td>\n<td>S/ 0</td>\n<td>S/ 180</td>\n<td>S/ 450</td>\n<td>S/ 120</td>\n</tr>\n<tr>\n<td>Exoneración de membresía</td>\n<td>No aplica</td>\n<td>Consumos ≥ S/ 6,000 al año</td>\n<td>Consumos ≥ S/ 18,000 al año</td>\n<td>Consumos ≥ S/ 4,000 al año</td>\n</tr>\n<tr>\n<td>TEA compras (referencial)</td>\n<td>49.9%</td>\n<td>39.9%</td>\n<td>29.9%</td>\n<td>34.9%</td>\n</tr>\n<tr>\n<td>TEA disposición de efectivo</td>\n<td>84.9%</td>\n<td>79.9%</td>\n<td>69.9%</td>\n<td>74.9%</td>\n</tr>\n<tr>\n<td>Comisión disposición efectivo</td>\n<td>S/ 12.00</td>\n<td>S/ 12.00</td>\n<td>S/ 8.00</td>\n<td>S/ 10.00</td>\n</tr>\n<tr>\n<td>Seguro de desgravamen mensua</td>\n<td>0.09% saldo</td>\n<td>0.09% saldo</td>\n<td>0.07% saldo</td>\n<td>0.09% saldo</td>\n</tr>\n<tr>\n<td>Reposición de plástico</td>\n<td>S/ 15.00</td>\n<td>S/ 15.00</td>\n<td>S/ 0</td>\n<td>S/ 15.00</td>\n</tr>\n</table>\n\nNota: la TEA (tasa efectiva anual) es referencial. El valor aplicable a cada cliente depende de su evaluación crediticia y debe\nconsultarse en el sistema de características de productos.\n\n\n<!-- PageFooter=\"DOCUMENTO SINTÉTICO - Banco Andino Ficticio no existe. Uso exclusivo para el Laboratorio 1.\" -->\n<!-- PageNumber=\"Página 1\" -->\n<!-- PageBreak -->",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 1,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-05",
+    "titulo": "4. Requisitos de solicitud",
+    "contenido": "<table>\n<tr>\n<th>Requisito</th>\n<th>Dependiente</th>\n<th>Independiente</th>\n<th>Cóndor Emprende</th>\n</tr>\n<tr>\n<td>Edad</td>\n<td>21 a 75 años</td>\n<td>21 a 75 años</td>\n<td>21 a 75 años</td>\n</tr>\n<tr>\n<td>Documento de identidad vigente</td>\n<td>Sí</td>\n<td>Sí</td>\n<td>Sí</td>\n</tr>\n<tr>\n<td>Antigüedad laboral o de negocio</td>\n<td>6 meses</td>\n<td>12 meses</td>\n<td>12 meses</td>\n</tr>\n<tr>\n<td>Sustento de ingresos</td>\n<td>3 últimas boletas de pago</td>\n<td>Declaración anual de renta</td>\n<td>Ficha RUC activa + 6 últimas declaraciones mensuales</td>\n</tr>\n<tr>\n<td>Calificación en central de riesgos</td>\n<td>Normal</td>\n<td>Normal</td>\n<td>Normal o CPP con aval</td>\n</tr>\n</table>",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 2,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-06",
+    "titulo": "5. Procedimiento de solicitud (canal agencia)",
+    "contenido": "Paso 1. Verificar la identidad del cliente con documento físico y validación biométrica.\n\nPaso 2. Consultar la oferta precalificada en el sistema; si no existe, registrar la solicitud para evaluación.\n\nPaso 3. Explicar costos, TEA, membresía y condiciones de exoneración antes de la firma.\n\nPaso 4. Entregar la Hoja Resumen y el contrato; obtener la firma digital del cliente.\n\nPaso 5. Registrar la dirección de entrega. El plástico se entrega en 5 días hábiles (Lima) o 8 días hábiles\n(provincias).\n\nPaso 6. Recordar la activación en la app y la creación de la clave en un cajero o en la app.",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 2,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-07",
+    "titulo": "6. Bloqueo por pérdida o robo",
+    "contenido": "El cliente puede bloquear la tarjeta en la app (opción Seguridad > Bloquear), en la banca telefónica (línea ficticia\n01 700-0000, 24 horas) o en agencia. El especialista nunca debe solicitar la clave, el CVV ni códigos de\nverificación. Tras el bloqueo, la reposición se solicita en el mismo acto.",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 2,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-08",
+    "titulo": "7. Reclamos y plazos de atención",
+    "contenido": "<table>\n<tr>\n<th>Tipo de caso</th>\n<th>Canal de registro</th>\n<th>Plazo máximo de respuesta</th>\n</tr>\n<tr>\n<td>Consumo no reconocido</td>\n<td>App, banca telefónica, agencia</td>\n<td>15 días hábiles</td>\n</tr>\n<tr>\n<td>Cobro indebido de membresía</td>\n<td>Agencia, banca telefónica</td>\n<td>10 días hábiles</td>\n</tr>\n<tr>\n<td>Solicitud de copia de contrato</td>\n<td>Agencia, correo de atención</td>\n<td>7 días hábiles</td>\n</tr>\n<tr>\n<td>Reclamo general (Libro de Reclamaciones)</td>\n<td>Agencia, web</td>\n<td>30 días calendario</td>\n</tr>\n</table>",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 2,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "ficha-tc-condor-sec-09",
+    "titulo": "8. Restricciones y buenas prácticas",
+    "contenido": "· No ofrecer tasas garantizadas ni aprobaciones sin evaluación crediticia.\n\n· No compartir información de otros clientes ni confirmar datos personales por teléfono.\n\n· Las disposiciones de efectivo no generan puntos Cumbre.\n\n· Los consumos en el extranjero se convierten con el tipo de cambio del día de procesamiento.\n\n· Ante dudas no cubiertas por esta guía, derivar a la mesa de ayuda de Productos (anexo ficticio 4521).\n\n<!-- PageFooter=\"DOCUMENTO SINTÉTICO - Banco Andino Ficticio no existe. Uso exclusivo para el Laboratorio 1.\" -->\n<!-- PageNumber=\"Página 2\" -->",
+    "categoria": "tarjetas_de_credito",
+    "tipo_documento": "ficha_producto_guia_atencion",
+    "producto": "Tarjetas Cóndor",
+    "pagina": 2,
+    "fuente": "ficha_tarjetas_credito_banco_andino.pdf",
+    "modelo": "prebuilt-layout",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true
+  },
+  {
+    "id": "factura-f001-004587",
+    "titulo": "Factura F001-004587 - Plásticos y Seguridad Andes S.A.C.",
+    "contenido": "Plásticos y Seguridad Andes S.A.C.\nFACTURA ELECTRÓNICA\nRUC: 20999888771\nNº F001-004587\nAv. Los Inventados 742, Lima, Perú\nFecha de emisión: 15/10/2026\nfacturacion@plasticos-andes.example\nFecha de vencimiento: 14/11/2026\nCliente: Banco Andino Ficticio S.A.\nRUC: 20111222333\nDirección: Jr. Imaginario 1200, San Isidro, Lima\nOrden de compra: OC-2026-0931 · Moneda: Soles (PEN) · Condición: Crédito 30 días\nÍtem\nDescripción\nCant.\nValor unit. (S/)\nImporte (S/)\n1\nPlástico tarjeta Cóndor Clásica con chip EMV\n5,000\n3.20\n16,000.00\n2\nPlástico tarjeta Cóndor Oro con chip EMV y contactless\n2,000\n4.10\n8,200.00\n3\nPlástico tarjeta Cóndor Platinum metálica\n500\n18.50\n9,250.00\n4\nPersonalización y embozado de datos\n7,500\n0.60\n4,500.00\n5\nSobre de seguridad para envío\n7,500\n0.35\n2,625.00\nSubtotal (valor de venta)\nS/ 40,575.00\nIGV (18%)\nS/ 7,303.50\nTOTAL A PAGAR\nS/ 47,878.50\nSon: cuarenta y siete mil ochocientos setenta y ocho con 50/100 soles.\nForma de pago: transferencia a la cuenta ficticia 000-0000000-0-00 del Banco Imaginario.\nDOCUMENTO SINTÉTICO - Banco Andino Ficticio no existe. Uso exclusivo para el Laboratorio 1.\nDOCUMENTO SINTÉTICO - Banco Andino Ficticio no existe. Uso exclusivo para el Laboratorio 1.\nPágina 1",
+    "categoria": "facturas_proveedores",
+    "tipo_documento": "factura",
+    "producto": null,
+    "pagina": 1,
+    "fuente": "factura_sintetica_plasticos_andes.pdf",
+    "modelo": "prebuilt-invoice",
+    "fecha_procesamiento": "2026-11-05",
+    "sintetico": true,
+    "campos_extraidos": {
+      "VendorName": {
+        "valor": "Plásticos y Seguridad Andes S.A.C.",
+        "confianza": 0.913
+      },
+      "VendorTaxId": {
+        "valor": "20999888771",
+        "confianza": 0.95
+      },
+      "VendorAddress": {
+        "valor": "Av. Los Inventados 742, Lima, Perú",
+        "confianza": 0.894
+      },
+      "CustomerName": {
+        "valor": "Banco Andino Ficticio S.A.",
+        "confianza": 0.919
+      },
+      "CustomerTaxId": {
+        "valor": "20111222333",
+        "confianza": 0.948
+      },
+      "CustomerAddress": {
+        "valor": "Jr. Imaginario 1200, San Isidro, Lima",
+        "confianza": 0.893
+      },
+      "InvoiceId": {
+        "valor": "F001-004587",
+        "confianza": 0.959
+      },
+      "InvoiceDate": {
+        "valor": "2026-10-15",
+        "confianza": 0.95
+      },
+      "DueDate": {
+        "valor": "2026-11-14",
+        "confianza": 0.95
+      },
+      "PurchaseOrder": {
+        "valor": "OC-2026-0931",
+        "confianza": 0.933
+      },
+      "SubTotal": {
+        "valor": "S/ 40575.0",
+        "confianza": 0.938
+      },
+      "TotalTax": {
+        "valor": "S/ 7303.5",
+        "confianza": 0.926
+      },
+      "InvoiceTotal": {
+        "valor": "S/ 47878.5",
+        "confianza": 0.579
+      },
+      "PaymentTerm": {
+        "valor": "transferencia a la cuenta ficticia 000-0000000-0-00 del Banco Imaginario.",
+        "confianza": 0.694
+      }
+    },
+    "items": [
+      {
+        "Description": "Plástico tarjeta Cóndor Clásica con chip EMV",
+        "Quantity": "5000.0",
+        "UnitPrice": "PEN 3.2",
+        "Amount": "PEN 16000.0"
+      },
+      {
+        "Description": "Plástico tarjeta Cóndor Oro con chip EMV y contactless",
+        "Quantity": "2000.0",
+        "UnitPrice": "PEN 4.1",
+        "Amount": "PEN 8200.0"
+      },
+      {
+        "Description": "Plástico tarjeta Cóndor Platinum metálica",
+        "Quantity": "500.0",
+        "UnitPrice": "PEN 18.5",
+        "Amount": "PEN 9250.0"
+      },
+      {
+        "Description": "Personalización y embozado de datos",
+        "Quantity": "7500.0",
+        "UnitPrice": "PEN 0.6",
+        "Amount": "PEN 4500.0"
+      },
+      {
+        "Description": "Sobre de seguridad para envío",
+        "Quantity": "7500.0",
+        "UnitPrice": "PEN 0.35",
+        "Amount": "PEN 2625.0"
+      }
+    ]
+  }
+]
